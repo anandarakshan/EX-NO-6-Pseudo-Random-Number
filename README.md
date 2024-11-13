@@ -1,4 +1,5 @@
 # Exp-06-Implementation of Pseudorandom Number Generation using Standard library
+# DATE:16-09-2024
 ## AIM:
 To implement Pseudorandom Number Generation using Standard Library.
 
